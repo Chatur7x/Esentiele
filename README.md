@@ -169,8 +169,5 @@ Esentiele is built with an **uncompromising privacy-first philosophy**:
 
 ---
 
-## 📜 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <p align="center"> Designed & Developed with ✨ for Luxury Digital Wardrobes </p>
